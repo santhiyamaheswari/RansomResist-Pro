@@ -1,0 +1,2 @@
+Warning! Your files are encrypted!
+To decrypt your files, please follow the instructions in the README file.

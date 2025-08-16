@@ -1,0 +1,8 @@
+Your files have been encrypted!
+To decrypt your files, you must purchase the decryption key.
+
+Send $500 in Bitcoin to the following address: [Bitcoin address]
+Once payment is received, your files will be decrypted.
+
+Do not attempt to restore your files on your own. Any attempt to do so will result in permanent loss of your data.
+
